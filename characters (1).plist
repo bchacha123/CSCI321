@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Iron Man</string>
+		<key>Real Name</key>
+		<string>Anthony Stark</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Captain America</string>
+		<key>Real Name</key>
+		<string>Steve Rogers</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hulk</string>
+		<key>Real Name</key>
+		<string>Bruce Banner</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hawkeye</string>
+		<key>Real Name</key>
+		<string>Clint Barton</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Thor</string>
+		<key>Real Name</key>
+		<string>Thor Odinson</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Black Widow</string>
+		<key>Real Name</key>
+		<string>Natalia &quot;Natasha&quot; Romanova</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Falcon</string>
+		<key>Real Name</key>
+		<string>Samuel &quot;Sam&quot; Wilson</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Vision</string>
+		<key>Real Name</key>
+		<string>Vision</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scarlet Witch</string>
+		<key>Real Name</key>
+		<string>Wanda Maximoff</string>
+		<key>Allegiance</key>
+		<string>Avengers</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Luke Cage</string>
+		<key>Real Name</key>
+		<string>Carl Lucas</string>
+		<key>Allegiance</key>
+		<string>Defenders</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jessica Jones</string>
+		<key>Real Name</key>
+		<string>Jessica Jones</string>
+		<key>Allegiance</key>
+		<string>Defenders</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Daredevil</string>
+		<key>Real Name</key>
+		<string>Matthew Murdock</string>
+		<key>Allegiance</key>
+		<string>Defenders</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Spider-Man</string>
+		<key>Real Name</key>
+		<string>Peter Parker</string>
+		<key>Allegiance</key>
+		<string>Independent</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Punisher</string>
+		<key>Real Name</key>
+		<string>Frank Castle</string>
+		<key>Allegiance</key>
+		<string>Independent</string>
+	</dict>
+</array>
+</plist>
